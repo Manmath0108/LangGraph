@@ -8,3 +8,6 @@ langgraph
 python-dotenv
 langchain-core
 pydantic
+langchain-google-genai
+langchain-community
+chromadb
