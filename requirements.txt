@@ -5,3 +5,6 @@ uvicorn
 pytest
 requests
 langgraph
+python-dotenv
+langchain-core
+pydantic
