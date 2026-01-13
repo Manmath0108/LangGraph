@@ -12,3 +12,5 @@ langchain-google-genai
 langchain-community
 chromadb
 langgraph-checkpoint-sqlite
+duckduckgo-search
+ddgs
